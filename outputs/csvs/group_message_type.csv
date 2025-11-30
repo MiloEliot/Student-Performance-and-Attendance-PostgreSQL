@@ -1,0 +1,16 @@
+"grade_level","message_type","count","rank"
+Grade 1,Automated Reminder,1577,1
+Grade 2,Automated Reminder,1592,2
+Grade 3,Automated Reminder,1673,5
+Grade 4,Automated Reminder,1633,4
+Grade 5,Automated Reminder,1631,3
+Grade 1,Parent to Teacher,1531,1
+Grade 2,Parent to Teacher,1633,3
+Grade 3,Parent to Teacher,1649,5
+Grade 4,Parent to Teacher,1648,4
+Grade 5,Parent to Teacher,1596,2
+Grade 1,Teacher to Parent,1561,1
+Grade 2,Teacher to Parent,1581,2
+Grade 3,Teacher to Parent,1632,3
+Grade 4,Teacher to Parent,1704,5
+Grade 5,Teacher to Parent,1671,4
